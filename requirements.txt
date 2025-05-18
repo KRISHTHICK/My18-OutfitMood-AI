@@ -7,3 +7,7 @@ sentence-transformers
 #pip install -r requirements.txt
 
 #streamlit run app.py
+
+
+#git clone https://github.com/your-username/OutfitMood-AI.git
+#cd OutfitMood-AI
